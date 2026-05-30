@@ -38,16 +38,23 @@ function Footer() {
         <h4 className="contact-title">CONTACT US</h4>
         <p>
           <BsTelephone className="contact-icon" />
-          (+91) 8105280757, (+91) 9343353395
+          (+91) 9343353395, (+91) 9035916899
         </p>
         <p>
           <MdOutlineMail className="contact-icon" />
-          Pkulai8@gmail.com
+          siri.salian@gmail.com
         </p>
         <p>
           <CiLocationOn className="contact-icon" />
           Adithya Beach Villa, Sadashivanagar 2nd Cross, Surathkal, Mangaluru, Karnataka, India
         </p>
+      </div>
+
+      <div className="footer-section footer-right">
+        <h4 className="contact-title">Terms & Conditions</h4>
+        <p>• If occupancy exceeds 6 guests, an additional charge of ₹600 per extra person will apply.</p>
+        <p></p>
+       <p>• Guest house premises can be used for birthday parties and similar events with a maximum capacity of 20 persons. Booking of two villas is mandatory for such events.</p>
       </div>
     </footer>
   );

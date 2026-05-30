@@ -20,9 +20,9 @@ const Header = () => {
               <p>A perfect blend of luxury and serenity by the sea. Enjoy stunning ocean views, elegant stays, and warm hospitality for a relaxing getaway.</p>
               <button onClick={() => {
     if (navigator.userAgent.match(/Android|iPhone|iPad|iPod/i)) {
-        window.location.href = 'tel:+918105280757';
+        window.location.href = 'tel:+919343353395';
     } else {
-        alert('Call us at +91 8105280757');
+        alert('Call us at +91 9343353395');
     }
 }}>
     Contact Now

@@ -80,13 +80,13 @@ function NavBar() {
             <div className="mobile-tel">
   <a href="tel:+918105280757">
     <FontAwesomeIcon icon={faPhone} className="icon-contact" />
-    (+91) 8105280757
+    +91 9343353395
   </a>
 </div>
 <div className="nav-email">
-  <a href="mailto:pkulai8@gmail.com">
+  <a href="mailto:siri.salian@gmail.com">
     <FontAwesomeIcon icon={faEnvelope} className="icon-contact" />
-    Pkulai8@gmail.com
+    siri.salian@gmail.com
   </a>
 </div>
 
@@ -99,15 +99,15 @@ function NavBar() {
           </i>
         </div>
         <div className="nav-tel">
-  <a href="tel:+918105280757">
+  <a href="tel:+919343353395">
     <FontAwesomeIcon icon={faPhone} className="icon-contact" />
-    (+91) 8105280757
+    (+91) 9343353395
   </a>
 </div>
 <div className="nav-email">
-  <a href="mailto:Pkulai8@gmail.com">
+  <a href="mailto: siri.salian@gmail.com">
     <FontAwesomeIcon icon={faEnvelope} className="icon-contact" />
-    Pkulai8@gmail.com
+    siri.salian@gmail.com
   </a>
 </div>
 
